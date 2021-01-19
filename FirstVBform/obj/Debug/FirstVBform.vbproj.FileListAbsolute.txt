@@ -1,0 +1,11 @@
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.exe.config
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.exe
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.pdb
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.xml
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.vbprojResolveAssemblyReference.cache
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.Form1.resources
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.Resources.resources
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.vbproj.GenerateResource.Cache
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.exe
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.xml
+c:\users\krism\documents\visual studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.pdb

@@ -1,0 +1,11 @@
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.exe.config
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.exe
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.pdb
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\bin\Debug\FirstVBform.xml
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\Kalkulator_VB.vbprojResolveAssemblyReference.cache
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.Form1.resources
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.Resources.resources
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\Kalkulator_VB.vbproj.GenerateResource.Cache
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.exe
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.xml
+C:\Users\krism\Documents\Visual Studio 2015\Projects\FirstVBform\FirstVBform\obj\Debug\FirstVBform.pdb
